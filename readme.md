@@ -1,3 +1,5 @@
+#![Alt text](./icon128.png) no fixed moodle header
+
 This is a small Google Chrome extension wich inject two (!) lines of css into moodle pages.
 It removes the the "fixed" attribut from the moodle header, so you have ~20px more height. :)
 
